@@ -1,4 +1,6 @@
+#
 # System Properties for International LG G5
+#
 
 # Radio
 ro.telephony.default_network=9
